@@ -10,7 +10,7 @@ p{
 	color: #5D5F79;
 }
 .nav-link:hover{
-	color: #F15E50;
+	color: #F15E50 !important;
 }
 #banner-title{
 	font-size: 3rem;
@@ -33,16 +33,16 @@ p{
 	cursor: pointer;
 }
 .read-more{
-	background-color: #F15E50;
-	border-radius: 0;
-	color: #FFFDFA;
+	background-color: #F15E50 !important;
+	border-radius: 0 !important;
+	color: #FFFDFA !important;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	text-decoration: none;
+	text-decoration: none !important;
 }
 .read-more:hover{
-	background-color: #00001A;
-	color: #FFFDFA;
+	background-color: #00001A !important;
+	color: #FFFDFA !important;
 }
 .number-top-news{
 	color: #C5C6CE;
@@ -51,7 +51,7 @@ p{
 	color: #00001A;
 }
 .title-top-news a:hover{
-	color: #F15E50;
+	color: #F15E50 !important;
 }
 .offcanvas-end{
 	width: 300px;
